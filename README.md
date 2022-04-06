@@ -41,7 +41,7 @@ Depends, pick a platform and send us a message!
 - [Facebook](https://www.facebook.com/VisualisticStudios)
 - [Telegram](https://t.me/VisFoundation_bot)
 - [Email](mailto:support@visfoundation.net)
-- - [Live Chat](https://visualistic-studios-unreal.rocket.chat/livechat) (Currently a dedicated page, coming soon to the whole [VisFoundation website](https://www.vis-foundation.com)!)
+- [Live Chat](https://visualistic-studios-unreal.rocket.chat/livechat) (Currently a dedicated page, coming soon to the whole [VisFoundation website](https://www.vis-foundation.com)!)
 
 ## How can I keep up with News?
 
