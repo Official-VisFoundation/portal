@@ -9,7 +9,7 @@ Work in Progress!
 
 VisFoundation is a set of frameworks, tools, systems, and more, designed to create the ultimate development environment for Unreal Engine. 
 
-The Developer & [Community](https://github.com/Visualistic-Studios/VisFoundation-Portal#is-there-a-community) provide [active support](https://github.com/Visualistic-Studios/VisFoundation-Portal#how-can-i-get-support), helpful feedback, and more.
+The Developer & [Community](https://github.com/Official-VisFoundation/portal/wiki/Community) provide [active support](https://github.com/Official-VisFoundation/portal/wiki/Support), helpful feedback, and more.
 
 ## What is [VisAI](https://www.ai.vis-foundation.com)
 
